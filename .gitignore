@@ -1,2 +1,4 @@
 mydb.py
 .env
+crm/__pycache__/
+website/__pycache__
